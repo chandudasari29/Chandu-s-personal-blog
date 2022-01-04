@@ -1,0 +1,137 @@
+.totalone {
+  background-color: #111;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.top-box {
+  background-color: #111;
+  padding-bottom: 20px;
+}
+
+.h1 {
+  background: none;
+}
+
+.p1-tag {
+  background: linear-gradient(90deg, rgba(210, 48, 79, 1) 10%, rgba(37, 215, 207, 1) 55%, rgba(69, 59, 222, 1) 95%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 10px 0 0 0;
+}
+
+h1 {
+  margin: 0;
+  font-size: 5em;
+  margin: 30px auto 20px auto;
+  font-family: 'Sacramento', cursive;
+  background: linear-gradient(271deg, #a0e9ff 30%, #a162e8 50%, #f093b0 70%, #edca85 94%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2 {
+  font-size: 3em;
+  margin: 30px auto 20px auto;
+  font-family: 'Sacramento', cursive;
+  background: linear-gradient(271deg, #a0e9ff 30%, #a162e8 50%, #f093b0 70%, #edca85 94%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.skill-row1 {
+  width: 50%;
+  background-color: #40394a;
+  border-radius: 30px;
+  margin: 0 20px 20px 20px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.skill1-image {
+  border-radius: 30px;
+  float: left;
+  margin: 10px 10px 10px 10px;
+}
+
+.skill-row2 {
+  width: 50%;
+  height: 300px;
+  background-color: #40394a;
+  border-radius: 30px;
+  margin: 20px 30px 20px auto;
+  overflow: hidden;
+}
+
+.skill2-info {
+  width: 100%;
+  background-color: inherit;
+}
+
+.skill2-img {
+  margin: 30px 30px 30px 30px;
+  border-radius: 30px;
+  width: 200px;
+  float: left;
+}
+
+p {
+  color: white;
+}
+
+.profile-image {
+  border-radius: 30px;
+  margin: 50px 20px 50px 50px;
+}
+
+.profile {
+  background-color: #111;
+}
+
+.profile-info {}
+
+.h2-hello {
+  margin-left: 10;
+}
+
+.cloud2 {
+  position: absolute;
+}
+
+.cloud1 {
+  position: relative;
+  left: 200px;
+  margin: 60px;
+}
+.btn{
+  background-color:  #40394a;
+  border-radius: 5px;
+  color: white;
+  margin: 5px;
+  padding: 10px;
+
+
+}
+.bottom-container{
+  background-color: #111;
+  padding :20px;
+
+}
+.mountain{
+  padding-top: 30px;
+  width: 60%;
+}
